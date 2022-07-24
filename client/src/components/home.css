@@ -1,0 +1,1554 @@
+@media (max-width:500px) and (min-width:0px){
+    .userListName{
+        font-size: 4vw;
+        left:7vw;
+        top:1vh;
+    }
+    .userListImage{
+        width: 9vw;
+        height: 9vw;
+        top:1.5vh;
+        left:0.5vw;
+    }
+    .userListMsg{
+        font-size: 2.5vw;
+        left:7vw;
+        top:5vh;
+    }
+    .userListTime{
+        font-size: 1.8vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:0;
+        top:5vh;
+        height:6vw;
+        width:6vw;
+    }
+    .filterButtonTopLeft{
+        right:12vw;
+        top:5vh;
+        height:6vw;
+        width:6vw;
+    }
+    .chatButtonTopLeft{
+        right:7vw;
+        top:5vh;
+        height:6vw;
+        width:6vw;
+    }
+    .profileImageTopLeft{
+        left:2vw;
+        height:10vw;
+        width:10vw;
+    }
+    .userSearchBarTopLeft{
+        font-size: 2.5vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 5vw;
+        left:10vw;
+        top:5vh;
+    }
+    .backButtonProfilePage{
+        width: 6.5vw;
+        height:6.5vh;
+        top:4vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        left:100%;
+        height:30vw;
+        width:30vw;
+    }
+    .profilePageNameWritten{
+        font-size: 4vw;
+    }
+    .profilePageName{
+        font-size: 4.5vw;
+    }
+    .profilePageNameSaveButton{
+        height:8vw;
+        width:8vw;
+        right:2vw;
+        top:7vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:8vw;
+        width:8vw;
+    }
+    .talking_name{
+        font-size: 4vw;
+        top:2.5vh;
+        left:20vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 3vw;
+        left:20vw;
+        top:7vh;
+    }
+    .active-user{
+        font-size: 3vw;
+        left:20vw;
+        top:7vh;
+    }
+    .searchIconReciever{
+        right:10vw;
+        height:4vw;
+        width:4vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:5vw;
+        width:5vw;
+    }
+    .msgSender{
+        font-size: 3.5vw;
+    }
+    .msgTiming{
+        font-size: 2vw;
+    }
+    .msgRec{
+        font-size: 3vw;
+    }
+    .msgRecTiming{
+        font-size: 1.7vw;
+    }
+    .emojiPicker{
+        height:5vw;
+        width:5vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:5vw;
+        width:7vw;
+        left:3.5vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:5vw;
+        width:5vw;
+        left:10vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:4vh;
+        left:1vw;
+        width:8vw;
+        height:8vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 4vw;
+        left:11vw;
+        top:2vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:10vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:4vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:2vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 4vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 2vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:5.5vw;
+        width:5.5vw;
+        left:1vw;
+        top:3.5vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:5.5vw;
+        width:5.5vw;
+        left:8.5vw;
+        top:1.5vh;
+    }
+    .inputWithContactOpen{
+        left: 14vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:1vw;
+        height:5vw;
+        width:5vw;
+        top:3vh;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:23vw;
+        height:23vw;
+        top:15vh;
+        right:3vw;
+    }
+    .contactPageName{
+        font-size: 6vw;
+        top:37vh;
+        right:3vw;
+    }
+}
+@media (max-width:650px) and (min-width:500px){
+    .userListName{
+        font-size: 3vw;
+        left:4vw;
+        top:0.5vh;
+    }
+    .userListImage{
+        width: 6vw;
+        height: 6vw;
+        top:1.5vh;
+        left:0.5vw;
+    }
+    .userListMsg{
+        font-size: 2vw;
+        left:4vw;
+        top:5.5vh;
+    }
+    .userListTime{
+        font-size: 1.7vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:0;
+        top:4vh;
+        height:3.5vw;
+        width:3.5vw;
+    }
+    .filterButtonTopLeft{
+        right:12vw;
+        top:4vh;
+        height:3.5vw;
+        width:3.5vw;
+    }
+    .chatButtonTopLeft{
+        right:7vw;
+        top:4vh;
+        height:3.5vw;
+        width:3.5vw;
+    }
+    .profileImageTopLeft{
+        left:2vw;
+        height:6vw;
+        width:6vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 4vw;
+        left:7vw;
+        top:2.5vh;
+    }
+    .backButtonProfilePage{
+        width: 4vw;
+        height:4vh;
+        top:3.5vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        left:4vw;
+        left:100%;
+        height:25vw;
+        width:25vw;
+    }
+    .profilePageNameWritten{
+        font-size: 3vw;
+    }
+    .profilePageName{
+        font-size: 3vw;
+    }
+    .profilePageNameSaveButton{
+        height:4vw;
+        width:4vw;
+        right:2vw;
+        top:7vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:6vw;
+        width:6vw;
+    }
+    .talking_name{
+        font-size: 3.5vw;
+        top:2vh;
+        left:20vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 2.5vw;
+        left:20vw;
+        top:7vh;
+    }
+    .active-user{
+        font-size: 2.5vw;
+        left:20vw;
+        top:7.5vh;
+    }
+    .searchIconReciever{
+        right:10vw;
+        height:3vw;
+        width:3vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:4vw;
+        width:4vw;
+    }
+    .msgSender{
+        font-size: 2.5vw;
+    }
+    .msgTiming{
+        font-size: 1.2vw;
+    }
+    .msgRec{
+        font-size: 2.5vw;
+    }
+    .msgRecTiming{
+        font-size: 1.3vw;
+    }
+    .emojiPicker{
+        height:4.5vw;
+        width:4.5vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:4.5vw;
+        width:4.5vw;
+        left:5vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:4.5vw;
+        width:4.5vw;
+        left:10vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:3vh;
+        left:1vw;
+        width:6vw;
+        height:6vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 3.5vw;
+        left:10vw;
+        top:2vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:10vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:2.5vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:1.2vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 2.5vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 1.2vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:5.5vw;
+        width:5.5vw;
+        left:1vw;
+        top:3vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:5.5vw;
+        width:5.5vw;
+        left:8.5vw;
+        top:1.5vh;
+    }
+    .inputWithContactOpen{
+        left:15vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:0.5vw;
+        height:4.5vw;
+        width:4.5vw;
+        top:3vh;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:23vw;
+        height:23vw;
+        top:15vh;
+        right:3vw;
+    }
+    .contactPageName{
+        font-size: 5.5vw;
+        top:44vh;
+        right:4vw;
+    }
+}
+@media (max-width:850px) and (min-width:651px){
+    .userListName{
+        font-size: 2.5vw;
+        left:2vw;
+        top:0.5vh;
+    }
+    .userListImage{
+        width: 5vw;
+        height: 5vw;
+        top:1.5vh;
+        left:0.5vw;
+    }
+    .userListMsg{
+        font-size: 1.5vw;
+        left:2vw;
+        top:6vh;
+    }
+    .userListTime{
+        font-size: 1.2vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:1vw;
+        top:4.5vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .filterButtonTopLeft{
+        right:10vw;
+        top:4.5vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .chatButtonTopLeft{
+        right:5vw;
+        top:4.5vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .profileImageTopLeft{
+        left:3vw;
+        height:5.5vw;
+        width:5.5vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 3vw;
+        left:6.5vw;
+        top:3.5vh;
+    }
+    .backButtonProfilePage{
+        width: 4vw;
+        height:4vh;
+        top:4vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        right:0%;
+        height:27vw;
+        width:27vw;
+    }
+    .profilePageNameWritten{
+        font-size: 2.5vw;
+    }
+    .profilePageName{
+        font-size: 2.5vw;
+    }
+    .profilePageNameSaveButton{
+        height:3.5vw;
+        width:3.5vw;
+        right:3vw;
+        top:8vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:6vw;
+        width:6vw;
+    }
+    .talking_name{
+        font-size: 3vw;
+        top:1.5vh;
+        left:20vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 2vw;
+        left:20vw;
+        top:7vh;
+    }
+    .active-user{
+        font-size: 2vw;
+        left:20vw;
+        top:7.5vh;
+    }
+    .searchIconReciever{
+        right:10vw;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .msgSender{
+        font-size: 2vw;
+    }
+    .msgTiming{
+        font-size: 1vw;
+    }
+    .msgRec{
+        font-size: 2vw;
+    }
+    .msgRecTiming{
+        font-size: 1vw;
+    }
+    .emojiPicker{
+        height:4vw;
+        width:4vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:4vw;
+        width:4vw;
+        left:3.5vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:4vw;
+        width:4vw;
+        left:10vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:3vh;
+        left:1vw;
+        width:5vw;
+        height:5vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 3vw;
+        left:10vw;
+        top:1.5vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:10vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:2vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:1vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 2vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 1vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:4vw;
+        width:4vw;
+        left:1vw;
+        top:3vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:4vw;
+        width:4vw;
+        left:8.5vw;
+        top:1.5vh;
+    }
+    .inputWithContactOpen{
+        left:15vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:0.5vw;
+        height:4vw;
+        width:4vw;
+        top:3vh;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:20vw;
+        height:20vw;
+        top:15vh;
+        right:5vw;
+    }
+    .contactPageName{
+        font-size: 5vw;
+        top:47vh;
+        right:6vw;
+    }
+}
+@media (max-width:1200px) and (min-width:851px){
+    .userListName{
+        font-size: 2vw;
+        left:2vw;
+        top:0.5vh;
+    }
+    .userListImage{
+        width: 3.5vw;
+        height: 3.5vw;
+        top:1.5vh;
+        left:0.5vw;
+    }
+    .userListMsg{
+        font-size: 1.2vw;
+        left:2vw;
+        top:6vh;
+    }
+    .userListTime{
+        font-size: 1vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:1vw;
+        top:3.5vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .filterButtonTopLeft{
+        right:10vw;
+        top:3.5vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .chatButtonTopLeft{
+        right:5vw;
+        top:3.5vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .profileImageTopLeft{
+        left:1.5vw;
+        height:4.5vw;
+        width:4.5vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 2.5vw;
+        left:6.5vw;
+        top:3.5vh;
+    }
+    .backButtonProfilePage{
+        width: 4vw;
+        height:4vh;
+        top:4.5vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        left:6vw;
+        height:22vw;
+        width:22vw;
+    }
+    .profilePageNameWritten{
+        font-size: 1.8vw;
+    }
+    .profilePageName{
+        font-size: 1.8vw;
+    }
+    .profilePageNameSaveButton{
+        height:3vw;
+        width:3vw;
+        right:3vw;
+        top:6.5vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:4vw;
+        width:4vw;
+    }
+    .talking_name{
+        font-size: 2.5vw;
+        top:1.2vh;
+        left:10vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 1.5vw;
+        left:10vw;
+        top:7vh;
+    }
+    .active-user{
+        font-size: 1.5vw;
+        left:10vw;
+        top:7.5vh;
+    }
+    .searchIconReciever{
+        right:7vw;
+        height:2vw;
+        width:2vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:2vw;
+        width:2vw;
+    }
+    .msgSender{
+        font-size: 1.5vw;
+    }
+    .msgTiming{
+        font-size: 1vw;
+    }
+    .msgRec{
+        font-size: 1.5vw;
+    }
+    .msgRecTiming{
+        font-size: 1vw;
+    }
+    .emojiPicker{
+        height:3vw;
+        width:3vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:3vw;
+        width:3vw;
+        left:4.5vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:3vw;
+        width:3vw;
+        left:10vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:2.5vh;
+        left:1vw;
+        width:3.5vw;
+        height:3.5vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 2vw;
+        left:8vw;
+        top:1vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:10vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:1.5vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:0.9vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 1.5vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 0.9vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:3vw;
+        width:3vw;
+        left:1vw;
+        top:3vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:3vw;
+        width:3vw;
+        left:8.5vw;
+        top:1.5vh;
+    }
+    .inputWithContactOpen{
+        left:15vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:0.5vw;
+        height:3vw;
+        width:3vw;
+        top:3vh;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:15vw;
+        height:15vw;
+        top:15vh;
+        right:7vw;
+    }
+    .contactPageName{
+        font-size: 3vw;
+        top:50vh;
+        right:8.5vw;
+    }
+}
+@media (max-width:1500px) and (min-width:1201px){
+    .userListName{
+        font-size: 1.4vw;
+        left:0.5vw;
+        top:0.5vh;
+    }
+    .userListImage{
+        width: 3vw;
+        height: 3vw;
+        top:1vh;
+        left:0.5vw;
+    }
+    .userListMsg{
+        font-size: 0.9vw;
+        left:0.5vw;
+        top:6vh;
+    }
+    .userListTime{
+        font-size: 0.8vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:1vw;
+        top:3.5vh;
+        height:1.8vw;
+        width:1.8vw;
+    }
+    .filterButtonTopLeft{
+        right:8vw;
+        top:3.5vh;
+        height:1.8vw;
+        width:1.8vw;
+    }
+    .chatButtonTopLeft{
+        right:5vw;
+        top:3.5vh;
+        height:1.8vw;
+        width:1.8vw;
+    }
+    .profileImageTopLeft{
+        left:1.5vw;
+        height:3vw;
+        width:3vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 1.8vw;
+        left:5vw;
+        top:3vh;
+    }
+    .backButtonProfilePage{
+        width: 4vw;
+        height:4vh;
+        top:4vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        left:6vw;
+        height:20vw;
+        width:20vw;
+    }
+    .profilePageNameWritten{
+        font-size: 1.2vw;
+    }
+    .profilePageName{
+        font-size: 1.2vw;
+    }
+    .profilePageNameSaveButton{
+        height:2vw;
+        width:2vw;
+        right:3vw;
+        top:6.5vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:3vw;
+        width:3vw;
+    }
+    .talking_name{
+        font-size: 1.8vw;
+        top:1vh;
+        left:8vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 1vw;
+        left:6.5vw;
+        top:8vh;
+    }
+    .active-user{
+        font-size: 1vw;
+        left:8vw;
+        top:8vh;
+    }
+    .searchIconReciever{
+        right:7vw;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .msgSender{
+        font-size: 1vw;
+    }
+    .msgTiming{
+        font-size: 0.7vw;
+    }
+    .msgRec{
+        font-size: 1vw;
+    }
+    .msgRecTiming{
+        font-size: 0.7vw;
+    }
+    .emojiPicker{
+        height:2.5vw;
+        width:2.5vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:2.5vw;
+        width:2.5vw;
+        left:3vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:2.5vw;
+        width:2.5vw;
+        left:6vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:2.5vh;
+        left:1vw;
+        width:3vw;
+        height:3vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 1.8vw;
+        left:6.5vw;
+        top:1vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:5vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:1.2vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:0.8vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 1.2vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 0.8vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:2.5vw;
+        width:2.5vw;
+        left:1vw;
+        top:3vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:2.5vw;
+        width:2.5vw;
+        left:8.5vw;
+        top:1.5vh;
+    }
+    .inputWithContactOpen{
+        left:15vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:2vw;
+        height:2.5vw;
+        width:2.5vw;
+        top:3vh;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:12vw;
+        height:12vw;
+        top:15vh;
+        right:9vw;
+    }
+    .contactPageName{
+        font-size: 2.7vw;
+        top:47vh;
+        right:10vw;
+    }
+}
+@media (max-width:2560px) and (min-width:1801px){
+    .userListName{
+        font-size: 1.2vw;
+        top:0.5vh;
+    }
+    .userListImage{
+        width: 2.5vw;
+        height: 2.5vw;
+        top:1.5vh;
+        left:1vw;
+    }
+    .userListMsg{
+        font-size: 0.7vw;
+        top:6vh;
+    }
+    .userListTime{
+        font-size: 0.7vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:1vw;
+        top:3.5vh;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .filterButtonTopLeft{
+        right:10vw;
+        top:3.5vh;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .chatButtonTopLeft{
+        right:5vw;
+        top:3.5vh;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .profileImageTopLeft{
+        left:1vw;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 1.5vw;
+        left:4.5vw;
+        top:3vh;
+    }
+    .backButtonProfilePage{
+        width: 4.5vw;
+        height:4.5vh;
+        top:4vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        left:6vw;
+        height:20vw;
+        width:20vw;
+    }
+    .profilePageNameWritten{
+        font-size: 1.3vw;
+    }
+    .profilePageName{
+        font-size: 1.3vw;
+    }
+    .profilePageNameSaveButton{
+        height:2vw;
+        width:2vw;
+        right:3vw;
+        top:6.5vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:3vw;
+        width:3vw;
+    }
+    .talking_name{
+        font-size: 1.7vw;
+        top:1vh;
+        left:7vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 1vw;
+        left:6.5vw;
+        top:7vh;
+    }
+    .active-user{
+        font-size: 1vw;
+        left:7vw;
+        top:7.5vh;
+    }
+    .searchIconReciever{
+        right:8vw;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:1.5vw;
+        width:1.5vw;
+    }
+    .msgSender{
+        font-size: 1.2vw;
+    }
+    .msgTiming{
+        font-size: 0.7vw;
+    }
+    .msgRec{
+        font-size: 1.2vw;
+    }
+    .msgRecTiming{
+        font-size: 0.7vw;
+    }
+    .emojiPicker{
+        height:2vw;
+        width:2vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:2vw;
+        width:2vw;
+        left:3vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:2vw;
+        width:2vw;
+        left:6vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:2.5vh;
+        left:1vw;
+        width:3vw;
+        height:3vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 1.7vw;
+        left:6.5vw;
+        top:1vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:5vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:1.4vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:0.8vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 1.4vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 0.8vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:2.5vw;
+        width:2.5vw;
+        left:0.5vw;
+        top:3.5vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:2.5vw;
+        width:2.5vw;
+        left:4vw;
+        top:3.5vh;
+    }
+    .inputWithContactOpen{
+        left:7.5vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:0.5vw;
+        top:3vh;
+        height:2.5vw;
+        width:2.5vw;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:12vw;
+        height:12vw;
+        top:15vh;
+        right:8vw;
+    }
+    .contactPageName{
+        font-size: 3vw;
+        top:51vh;
+        right:9vw;
+    }
+}
+
+@media (max-width:1800px) and (min-width:1351px){
+    .userListName{
+        font-size: 1.5vw;
+        left:0.5vw;
+        top:0.5vh;
+    }
+    .userListImage{
+        width: 3vw;
+        height: 3vw;
+        top:1.5vh;
+        left:0.5vw;
+    }
+    .userListMsg{
+        font-size: 0.8vw;
+        left:0.5vw;
+        top:6vh;
+    }
+    .userListTime{
+        font-size: 0.8vw;
+        right:0;
+        bottom:0;
+    }
+    .optionButtonTopLeft{
+        right:1vw;
+        top:3.5vh;
+        height:1.8vw;
+        width:1.8vw;
+    }
+    .filterButtonTopLeft{
+        right:10vw;
+        top:3.5vh;
+        height:1.8vw;
+        width:1.8vw;
+    }
+    .chatButtonTopLeft{
+        right:5vw;
+        top:3.5vh;
+        height:1.8vw;
+        width:1.8vw;
+    }
+    .profileImageTopLeft{
+        left:1.5vw;
+        height:3.5vw;
+        width:3.5vw;
+    }
+    .topLeftProfileWrittenProfilePage{
+        font-size: 2vw;
+        left:4.5vw;
+        top:3vh;
+    }
+    .backButtonProfilePage{
+        width: 4.5vw;
+        height:4.5vh;
+        top:4vh;
+    }
+    .profileImageProfilePage{
+        top:4vh;
+        left:4vw;
+        height:25vw;
+        width:25vw;
+    }
+    .profilePageNameWritten{
+        font-size: 1.7vw;
+    }
+    .profilePageName{
+        font-size: 1.7vw;
+    }
+    .profilePageNameSaveButton{
+        height:2.5vw;
+        width:2.5vw;
+        right:3vw;
+        top:6.5vh;
+    }
+    .recieverProfilePhoto{
+        left:2vw;
+        height:3.5vw;
+        width:3.5vw;
+    }
+    .talking_name{
+        font-size: 2vw;
+        top:0.7vh;
+        left:8vw;
+    }
+    .active-userWithContactOpen{
+        font-size: 1.2vw;
+        left:6.5vw;
+        top:7vh;
+    }
+    .active-user{
+        font-size: 1.2vw;
+        left:8vw;
+        top:7.5vh;
+    }
+    .searchIconReciever{
+        right:8vw;
+        height:2vw;
+        width:2vw;
+    }
+    .optionsIconReciever{
+        right:2vw;
+        height:2vw;
+        width:2vw;
+    }
+    .msgSender{
+        font-size: 1.5vw;
+    }
+    .msgTiming{
+        font-size: 0.8vw;
+    }
+    .msgRec{
+        font-size: 1.5vw;
+    }
+    .msgRecTiming{
+        font-size: 0.8vw;
+    }
+    .emojiPicker{
+        height:2.5vw;
+        width:2.5vw;
+        left:1.5vw;
+        top:0vh;
+    }
+    .attachFile{
+        height:2.5vw;
+        width:2.5vw;
+        left:3vw;
+        top:0vh;
+    }
+    .msgSubmit{
+        height:2.5vw;
+        width:2.5vw;
+        left:6vw;
+        top:0vh;
+    }
+    .recieverProfilePhotoWithContactOpen{
+        top:2.5vh;
+        left:1vw;
+        width:3vw;
+        height:3vw;
+    }
+    .recieverNameWithContactOpen{
+        font-size: 2vw;
+        left:6.5vw;
+        top:1vh;
+    }
+    .recieverSearchWithContactOpen{
+        right:5vw;
+    }
+    .optionsButtonWithContactOpen{
+        right:2vw;
+    }
+    .senderMsgWithContactOpen{
+        font-size:1.4vw;
+    }
+    .senderTimingWithContactOpen{
+        font-size:0.8vw;       
+    }
+    .recieverWithContactOpen{
+        font-size: 1.4vw;
+    }
+    .recieverTimingWithContactOpen{
+        font-size: 0.8vw;
+    }
+    .emojiPickerWithContactOpen{
+        height:2.5vw;
+        width:2.5vw;
+        left:0.5vw;
+        top:3.5vh;
+    }
+    .attachFilesButtonWithContactOpen{
+        height:2.5vw;
+        width:2.5vw;
+        left:4vw;
+        top:2vh;
+    }
+    .inputWithContactOpen{
+        left:7.5vw;
+    }
+    .msgSubmitWithContactOpen{
+        right:0.5vw;
+        top:3vh;
+        height:2vw;
+        width:2vw;
+    }
+    .closeButtonContactPage{
+        height:5vh;
+        width:5vw;
+    }
+    .contactInfoPhoto{
+        width:12vw;
+        height:12vw;
+        top:15vh;
+        right:10vw;
+    }
+    .contactPageName{
+        font-size: 3vw;
+        top:51vh;
+        right:11vw;
+    }
+}
+@media (max-width:350px) and (min-width:0px){
+    .talking_nameOfflineWithContactOpen{
+        font-size: 4vw;
+        left:15vw;
+        top:4vh;
+    }
+    .talking_nameOffline{
+        font-size: 4vw;
+        left:10vw;
+        top:4vh;
+    }
+    .userListUnread{
+        width:4vw;
+        height:4vw;
+        top:2.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:15%;
+        font-size: 2vw;
+    }
+}
+@media (max-width:500px) and (min-width:351px){
+    .talking_nameOfflineWithContactOpen{
+        font-size: 4vw;
+        left:15vw;
+        top:3.5vh;
+    }
+    .talking_nameOffline{
+        font-size: 4vw;
+        left:14vw;
+        top:3.5vh;
+    }
+    .userListUnread{
+        width:4vw;
+        height:4vw;
+        top:2.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:15%;
+        font-size: 2vw;
+    }
+}
+@media (max-width:800px) and (min-width:501px){
+    .talking_nameOfflineWithContactOpen{
+        font-size: 3vw;
+        left:15vw;
+        top:3vh;
+    }
+    .talking_nameOffline{
+        font-size: 3vw;
+        left:14vw;
+        top:3vh;
+    }
+    .userListUnread{
+        width:2.5vw;
+        height:2.5vw;
+        top:1.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:15%;
+        font-size: 1.5vw;
+    }
+}
+@media (max-width:1000px) and (min-width:801px){
+    .talking_nameOfflineWithContactOpen{
+        font-size: 2vw;
+        left:15vw;
+        top:2.5vh;
+    }
+    .talking_nameOffline{
+        font-size: 2vw;
+        left:14vw;
+        top:2.5vh;
+    }
+    .userListUnread{
+        width:2.5vw;
+        height:2.5vw;
+        top:1.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:25%;
+        font-size: 1.5vw;
+    }
+}
+@media (max-width:1200px) and (min-width:1001px){
+    .talking_nameOfflineWithContactOpen{
+        font-size: 2vw;
+        left:11vw;
+        top:3vh;
+    }
+    .talking_nameOffline{
+        font-size: 2vw;
+        left:14vw;
+        top:3vh;
+    }
+    .userListUnread{
+        width:1.7vw;
+        height:1.7vw;
+        top:1.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:10%;
+        font-size: 1.2vw;
+    }
+}
+@media (max-width:2560px) and (min-width:1201px){
+    .talking_nameOfflineWithContactOpen{
+        font-size: 1.5vw;
+        left:8vw;
+        top:3vh;
+    }
+    .talking_nameOffline{
+        font-size: 1.5vw;
+        left:8vw;
+        top:3vh;
+    }
+}
+@media (max-width:1650px) and (min-width:1201px){
+    .userListUnread{
+        width:1.7vw;
+        height:1.7vw;
+        top:1.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:15%;
+        font-size: 1.2vw;
+    }
+}
+@media (max-width:2000px) and (min-width:1651px){
+    .userListUnread{
+        width:1.7vw;
+        height:1.7vw;
+        top:1.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:20%;
+        font-size: 1.2vw;
+    }
+}
+@media (max-width:2560px) and (min-width:2001px){
+    .userListUnread{
+        width:1.7vw;
+        height:1.7vw;
+        top:1.5vh;
+        right:0.5vw;
+    }
+    .userListUnreadNumber{
+        top:25%;
+        font-size: 1.2vw;
+    }
+}

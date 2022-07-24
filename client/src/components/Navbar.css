@@ -1,0 +1,32 @@
+  ::-webkit-scrollbar {
+    width: 0.5vw;
+  }
+  body{
+    font-family: 'Roboto', sans-serif;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  } 
+  ::-webkit-scrollbar-thumb {
+    background: #555; 
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  .my-node-enter {
+    opacity: 0;
+  }
+  .my-node-enter-active {
+    opacity: 1;
+    transition: opacity 400ms linear;
+  }
+  .my-node-exit {
+    opacity: 1;
+  }
+  .my-node-exit-active {
+    opacity: 0;
+    transition: opacity 400ms linear;
+  }
+  .image-upload>input {
+    display: none;
+  }
